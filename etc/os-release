@@ -1,0 +1,9 @@
+PRETTY_NAME="BlackTrack #OSNAME# 3.0b (surabaya)"
+NAME="BlackTrack #OSNAME#"
+VERSION_ID="3.0b"
+VERSION="3.0b (surabaya)"
+VERSION_CODENAME=surabaya
+ID=blacktrack
+HOME_URL="https://blacktracksec.github.io/"
+SUPPORT_URL="https://blacktracksec.github.io/support"
+BUG_REPORT_URL="https://blacktracksec.github.io/"
