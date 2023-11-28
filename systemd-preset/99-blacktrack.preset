@@ -1,10 +1,8 @@
 
-# We don't need that shit
 disable systemd-timesyncd.service
 disable systemd-resolved.service
 
-# Network services to disable
-disable anonsurfd.service
+# Disabling Network Service
 disable docker.service
 disable apache2.service
 disable apt-daily-upgrade.timer
